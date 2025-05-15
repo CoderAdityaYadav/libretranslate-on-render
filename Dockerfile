@@ -6,4 +6,3 @@ ENV LT_PORT=5000
 
 EXPOSE 5000
 
-CMD ["npm", "start"]
